@@ -229,18 +229,3 @@ Combines strengths of multiple models:
 
 ---
 
-## 📄 License
-
-Educational and research use. For production deployment, ensure compliance with applicable laws.
-
----
-
-## 👨‍💻 Developer
-
-**Version:** 1.0.0  
-**Last Updated:** October 2025  
-**Contact:** [Your Email]
-
----
-
-**Built with ❤️ for audio authenticity verification**
